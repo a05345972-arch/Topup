@@ -1,7 +1,7 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
-// =======================================================
-var website_name = "YASIN";
+// Ans top up
+// ============================================
+var website_name = Ans top up;
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
@@ -9,7 +9,7 @@ var website_name = "YASIN";
 var telegram_channel_link = "telegram channel link";
 
 // =======================================================
-// TELEGRAM GROUP LINK
+// TELEGRAM GROUP LINKhttps://t.me/ffpanle1
 // =======================================================
 var telegram_group_link = "telegram group link";
 
